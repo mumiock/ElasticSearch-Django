@@ -46,7 +46,7 @@ Before you get started, ensure you have the following installed on your system:
 
    ```bash
    git clone https://github.com/mumiock/ElasticSearch-Django.git
-   cd ElasticSearch-Djangod
+   cd ElasticSearch-Django
    ```
 
 2. Create a virtual environment and activate it (**optional but recommended**):
